@@ -1,0 +1,32 @@
+[
+    {
+        "username": "alicej",
+        "email": "user1@example.com",
+        "ip_address": "192.168.1.1",
+        "location": "New York"
+    },
+    {
+        "username": "bobsmith",
+        "email": "user2@example.com",
+        "ip_address": "45.33.34.23",
+        "location": "California"
+    },
+    {
+        "username": "carollee",
+        "email": "user3@example.com",
+        "ip_address": "192.167.34.45",
+        "location": "Texas"
+    },
+    {
+        "username": "user4",
+        "email": "user4@example.com",
+        "ip_address": "203.0.113.44",
+        "location": "Florida"
+    },
+    {
+        "username": "user5",
+        "email": "user5@example.com",
+        "ip_address": "8.8.8.8",
+        "location": "Chicago"
+    }
+]
