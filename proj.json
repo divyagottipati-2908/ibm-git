@@ -55,5 +55,62 @@
       "catchPhrase": "Empowering Insights",
       "bs": "data analytics and reporting"
     }
+  },
+   {
+    "id": 3,
+    "name": "Carol Lee",
+    "username": "carollee",
+    "email": "carol.lee@example.com",
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 303",
+      "city": "Gotham",
+      "zipcode": "90210"
+    },
+    "phone": "555-555-5555",
+    "website": "carollee.example.com",
+    "company": {
+      "name": "DataSolutions",
+      "catchPhrase": "Empowering Insights",
+      "bs": "data analytics and reporting"
+    }
+  },
+   {
+    "id": 3,
+    "name": "Carol Lee",
+    "username": "carollee",
+    "email": "carol.lee@example.com",
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 303",
+      "city": "Gotham",
+      "zipcode": "90210"
+    },
+    "phone": "555-555-5555",
+    "website": "carollee.example.com",
+    "company": {
+      "name": "DataSolutions",
+      "catchPhrase": "Empowering Insights",
+      "bs": "dsql scripting"
+    }
+  },
+   {
+    "id": 3,
+    "name": "Carol Lee",
+    "username": "carollee",
+    "email": "carol.lee@example.com",
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 303",
+      "city": "Gotham",
+      "zipcode": "90210"
+    },
+    "phone": "555-555-5555",
+    "website": "carollee.example.com",
+    "company": {
+      "name": "DataSolutions",
+      "catchPhrase": "Empowering Insights",
+      "bs": "data access for computation"
+    }
   }
 ]
