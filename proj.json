@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alice.johnson@example.com",
+    "address": {
+      "street": "Main Street",
+      "suite": "Apt. 101",
+      "city": "Springfield",
+      "zipcode": "62704"
+    },
+    "phone": "123-456-7890",
+    "website": "alicej.example.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovating the Future",
+      "bs": "cloud computing solutions"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "bobsmith",
+    "email": "bob.smith@example.com",
+    "address": {
+      "street": "Broadway",
+      "suite": "Suite 200",
+      "city": "Metropolis",
+      "zipcode": "10108"
+    },
+    "phone": "987-654-3210",
+    "website": "bobsmith.example.com",
+    "company": {
+      "name": "InnovateX",
+      "catchPhrase": "Disrupting the Norm",
+      "bs": "AI and automation solutions"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Carol Lee",
+    "username": "carollee",
+    "email": "carol.lee@example.com",
+    "address": {
+      "street": "Elm Street",
+      "suite": "Apt. 303",
+      "city": "Gotham",
+      "zipcode": "90210"
+    },
+    "phone": "555-555-5555",
+    "website": "carollee.example.com",
+    "company": {
+      "name": "DataSolutions",
+      "catchPhrase": "Empowering Insights",
+      "bs": "data analytics and reporting"
+    }
+  }
+]
